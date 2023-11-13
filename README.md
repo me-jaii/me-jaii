@@ -3,16 +3,16 @@
 </div>
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/me-jaiii">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/me_jaiiiii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/me_jaiii">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://linktr.ee/me_jaiii">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree Badge"/>
+    <img src="https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree Badge"/>
   </a>
 </div>
 <div id="count" align="center">
