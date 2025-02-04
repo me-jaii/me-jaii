@@ -22,6 +22,14 @@
 </div>
 
 ---
+
+## Github Stats📊&nbsp;
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=me-jaii&show_icons=true&theme=github_dark">
+</p>
+
+---
+
 ### :supervillain: About Me :
 
 👋 Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> focusing on crafting efficient and user-friendly mobile apps.
